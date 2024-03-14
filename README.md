@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thisistusharmahajan
 - 👀 I’m a Eager Learner, and Computer Science Enthusiast
-- 🌱 I’m currently learning WEB DEVELOPMENT 
+- 🌱 Skills: C, C++, Java, Networking, Web Development, Databases, MySQL, SQLite
 - 📫 How to reach me : Instagram @ https://www.instagram.com/thisistusharmahajan/   Linkedin @ https://www.linkedin.com/in/tushar-mahajan-712328197
 
 -                       
