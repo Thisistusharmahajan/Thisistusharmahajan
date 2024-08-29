@@ -3,7 +3,7 @@
 - 🌱 Skills: C, C++, Java, Networking, Web Development, Databases, MySQL, SQLite
 - 📫 How to reach me : Linkedin @ https://www.linkedin.com/in/tushar-mahajan-712328197
 
-- 87WPM AVG TYPING SPEED @monkeytype: https://monkeytype.com/profile/tmahajan                  
+- 100WPM AVG TYPING SPEED @monkeytype: https://monkeytype.com/profile/tmahajan                  
 
 <!---
 Thisistusharmahajan/Thisistusharmahajan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
